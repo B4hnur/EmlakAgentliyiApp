@@ -1,0 +1,1113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\utilities\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\utilities\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\propertydetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\propertydetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\financialmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\financialmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\clientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\clientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\clientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\clientmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\clientmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\clientmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\models\\propertydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\models\\propertydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\financialmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\financialmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\financialmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\financialmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\financialreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\financialreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\utilities\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\utilities\\logginghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\utilities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\utilities\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\database\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\database\\sqliteinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\database\\sqliteinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\database\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\database\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\database\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\database\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\database\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\database\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\database\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\database\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\database\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\database\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\database\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\database\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\database\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\database\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\reportingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\reportingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\services\\imageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\services\\imageprocessingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\services\\financialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\services\\financialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\services\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\services\\financialcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\services\\financialcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\imageviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\imageviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\imageviewerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\imageviewerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\imageviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\imageviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\reportingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\reportingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\reportingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\reportingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\services\\webscrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\services\\webscrapingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\models\\propertyimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\financialreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\financialreportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\propertydetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\propertydetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\propertylistingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\propertylistingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\propertylistingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\propertylistingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\propertylistingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\propertylistingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\transactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\transactionform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\transactionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\propertydetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\propertydetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\financialreportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\financialreportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\employeemanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\employeemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\employeemanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\utils\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\utils\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\utils\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\utils\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\utils\\watermarkremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\utils\\watermarkremover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|c:\\users\\user\\desktop\\setup\\emlakagentliyiapp\\emlakagentliyiapp\\utils\\htmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E89E9-E038-48F8-8319-253C3B7476B7}|EmlakAgentliyiApp\\EmlakAgentliyiApp.csproj|solutionrelative:emlakagentliyiapp\\utils\\htmlparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ClientManagementForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\ClientManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ClientManagementForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\ClientManagementForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:57:51.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinancialManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialManagementForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\FinancialManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialManagementForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\FinancialManagementForm.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAhwF0BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:04:58.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PropertyDetailForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyDetailForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\PropertyDetailForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyDetailForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\PropertyDetailForm.cs",
+              "ViewState": "AgIAAO8BAAAAAAAAAAAhwLwBAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:49:29.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ClientManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\ClientManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ClientManagementForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\ClientManagementForm.Designer.cs",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAAANIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:57:56.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientManagementForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ClientManagementForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\ClientManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ClientManagementForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\ClientManagementForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:57:51.046Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAAJYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:41:22.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\MainForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAjwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:56:18.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utilities\\Helpers.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Utilities\\Helpers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utilities\\Helpers.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Utilities\\Helpers.cs",
+              "ViewState": "AgIAAKwCAAAAAAAAAAAAAMUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:05:29.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyDetail.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\PropertyDetail.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Models\\PropertyDetail.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\PropertyDetail.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Models\\PropertyDetail.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAOgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T02:16:12.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinancialManagementForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialManagementForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\FinancialManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialManagementForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\FinancialManagementForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:04:57.219Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinancialReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialReportForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\FinancialReportForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialReportForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\FinancialReportForm.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAhwJEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:43:23.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FinancialManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\FinancialManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialManagementForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\FinancialManagementForm.Designer.cs",
+              "ViewState": "AgIAAEgGAAAAAAAAAAAAAHAGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:06:04.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoggingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utilities\\LoggingHelper.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Utilities\\LoggingHelper.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utilities\\LoggingHelper.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Utilities\\LoggingHelper.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:05:47.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utilities\\Constants.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Utilities\\Constants.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utilities\\Constants.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Utilities\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:05:13.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Database\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\DatabaseManager.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Database\\DatabaseManager.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAhwL8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:17:19.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SQLiteInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\SQLiteInitializer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Database\\SQLiteInitializer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\SQLiteInitializer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Database\\SQLiteInitializer.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAAAALcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:34:23.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PropertyImage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\PropertyImage.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Database\\Models\\PropertyImage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\PropertyImage.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Database\\Models\\PropertyImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:14:26.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Database\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Transaction.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Database\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:14:50.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Database\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Client.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Database\\Models\\Client.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAALYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:12:57.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Database\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Employee.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Database\\Models\\Employee.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAOYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:13:17.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Database\\Models\\Enums.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Enums.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Database\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:13:30.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Database\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Expense.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Database\\Models\\Expense.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAANcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:13:46.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Database\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Database\\Models\\Property.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Database\\Models\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:14:03.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Employee.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:59:09.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Expense.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Models\\Expense.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:59:28.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ReportingForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ReportingForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\ReportingForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ReportingForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\ReportingForm.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAhwFsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:13:12.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\ReportService.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Services\\ReportService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\ReportService.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Services\\ReportService.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAqwB0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:36:08.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ImageProcessingService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\ImageProcessingService.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Services\\ImageProcessingService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\ImageProcessingService.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Services\\ImageProcessingService.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAP0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:19:44.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "FinancialService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\FinancialService.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Services\\FinancialService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\FinancialService.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Services\\FinancialService.cs",
+              "ViewState": "AgIAALkAAAAAAAAAAAAAANgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:36:13.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Services\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\DatabaseService.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Services\\DatabaseService.cs",
+              "ViewState": "AgIAAGYFAAAAAAAAAAAAAIEFAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:00:37.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FinancialCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\FinancialCalculationService.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Services\\FinancialCalculationService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\FinancialCalculationService.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Services\\FinancialCalculationService.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAPcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:56:21.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ImageViewerForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ImageViewerForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\ImageViewerForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ImageViewerForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\ImageViewerForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:52:22.219Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ImageViewerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ImageViewerForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\ImageViewerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ImageViewerForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\ImageViewerForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:52:32.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ImageViewerForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ImageViewerForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\ImageViewerForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ImageViewerForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\ImageViewerForm.cs",
+              "ViewState": "AgIAAJEBAAAAAAAAAAAqwLkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:52:23.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReportingForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ReportingForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\ReportingForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ReportingForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\ReportingForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:13:05.029Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReportingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ReportingForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\ReportingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\ReportingForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\ReportingForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:13:29.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt",
+              "ToolTip": "C:\\Users\\USER\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\livecharts\\0.9.7\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-27T01:20:23.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WebScrapingService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\WebScrapingService.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Services\\WebScrapingService.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Services\\WebScrapingService.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Services\\WebScrapingService.cs",
+              "ViewState": "AgIAABECAAAAAAAAAAAIwC0CAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:00:47.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Transaction.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:59:18.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PropertyImage.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\PropertyImage.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Models\\PropertyImage.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\PropertyImage.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Models\\PropertyImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:59:38.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Property.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Models\\Property.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:18:22.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Models\\Client.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Models\\Client.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:58:54.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:56:55.376Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:56:13.718Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FinancialReportForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialReportForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\FinancialReportForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialReportForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\FinancialReportForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:43:22.912Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "PropertyDetailForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyDetailForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\PropertyDetailForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyDetailForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\PropertyDetailForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:49:28.241Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PropertyListingForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyListingForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\PropertyListingForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyListingForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\PropertyListingForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:57:17.521Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TransactionForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\TransactionForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\TransactionForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\TransactionForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\TransactionForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:31:12.384Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PropertyListingForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyListingForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\PropertyListingForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyListingForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\PropertyListingForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:57:18.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "PropertyListingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyListingForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\PropertyListingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyListingForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\PropertyListingForm.Designer.cs",
+              "ViewState": "AgIAAJsBAAAAAAAAAAAIwMYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:57:23.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Program.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Program.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T01:03:48.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TransactionForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\TransactionForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\TransactionForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\TransactionForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\TransactionForm.cs",
+              "ViewState": "AgIAAMMDAAAAAAAAAAAIwO4DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:31:13.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TransactionForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\TransactionForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\TransactionForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\TransactionForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\TransactionForm.Designer.cs",
+              "ViewState": "AgIAAMECAAAAAAAAAAAIwOwCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:31:19.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PropertyDetailForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyDetailForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\PropertyDetailForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\PropertyDetailForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\PropertyDetailForm.Designer.cs",
+              "ViewState": "AgIAAPMBAAAAAAAAAAAIwB4CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:49:43.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAIwPIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:56:26.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "FinancialReportForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\FinancialReportForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\FinancialReportForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\FinancialReportForm.Designer.cs",
+              "ViewState": "AgIAAJQDAAAAAAAAAAAIwL8DAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:43:29.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EmployeeManagementForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:41:21.787Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EmployeeManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\EmployeeManagementForm.Designer.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAAIwOUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:41:36.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utils\\Helpers.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Utils\\Helpers.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utils\\Helpers.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Utils\\Helpers.cs",
+              "ViewState": "AgIAAKoCAAAAAAAAAAAIwNUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:30:28.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utils\\Constants.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Utils\\Constants.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utils\\Constants.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Utils\\Constants.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAIwOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:59:58.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\App.config",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\App.config",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\App.config",
+              "RelativeToolTip": "EmlakAgentliyiApp\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-26T22:55:58.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:56:56.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T22:57:01.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "WatermarkRemover.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utils\\WatermarkRemover.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Utils\\WatermarkRemover.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utils\\WatermarkRemover.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Utils\\WatermarkRemover.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAIwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:00:19.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "HtmlParser.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utils\\HtmlParser.cs",
+              "RelativeDocumentMoniker": "EmlakAgentliyiApp\\Utils\\HtmlParser.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\setup\\EmlakAgentliyiApp\\EmlakAgentliyiApp\\Utils\\HtmlParser.cs",
+              "RelativeToolTip": "EmlakAgentliyiApp\\Utils\\HtmlParser.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAIwBwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T23:00:09.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

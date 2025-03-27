@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\EmlakAgentliyiApp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\DashinmazEmlakApp.Forms.ClientManagementForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\DashinmazEmlakApp.Forms.EmployeeManagementForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\EmlakAgentliyiApp.Forms.FinancialManagementForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\DashinmazEmlakApp.Forms.FinancialReportForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\DasinmazEmlakAgentligi.Forms.ImageViewerForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\EmlakAgentliyiApp.Forms.LoginForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\DashinmazEmlakApp.Forms.MainForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\DashinmazEmlakApp.Forms.PropertyDetailForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\DashinmazEmlakApp.Forms.TransactionForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\EmlakAgentliyiApp.Properties.Resources.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\DasinmazEmlakAgentligi.Forms.PropertyDetailForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\DasinmazEmlakAgentligi.Forms.PropertyListingForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\EmlakAgentliyiApp.Forms.ReportingForm.resources
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\EmlakAgentliyiApp.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\setup\EmlakAgentliyiApp\EmlakAgentliyiApp\obj\Debug\EmlakAgentliyiApp.csproj.CoreCompileInputs.cache
